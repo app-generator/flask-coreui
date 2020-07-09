@@ -1,4 +1,4 @@
-# [Flask Dashboard CoreUI](https://appseed.us/admin-dashboards/flask-dashboard-coreui)
+# [Flask Dashboard - CoreUI Design](https://appseed.us/admin-dashboards/flask-dashboard-coreui)
 
 > **Open-Source Admin Dashboard** coded in **Flask Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features:
 
@@ -16,10 +16,10 @@
 
 > Links
 
-- [Flask Dashboard CoreUI](https://flask-dashboard-coreui.appseed.us/) - LIVE Demo
-- [Flask Dashboard CoreUI](https://appseed.us/admin-dashboards/flask-dashboard-coreui) - Official product page
-- More [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - index hosted by **[AppSeed](https://appseed.us)**
-- [Open-Source Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - index hosted by **[AppSeed](https://appseed.us)**
+- [Flask Dashboard - CoreUI Design](https://appseed.us/admin-dashboards/flask-dashboard-coreui) - Official product page
+- [Flask Dashboard CoreUI Demo](https://flask-dashboard-coreui.appseed.us/) - LIVE App
+- More [Flask Dashboards](https://appseed.us/admin-dashboards/flask) - index hosted by **AppSeed**
+- More [Admin Dashboards](https://appseed.us/admin-dashboards) - index hosted by **AppSeed**
 
 <br />
 
@@ -274,4 +274,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Flask Dashboard CoreUI](https://appseed.us/admin-dashboards/flask-dashboard-coreui) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Flask Dashboard - CoreUI Design](https://appseed.us/admin-dashboards/flask-dashboard-coreui) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
