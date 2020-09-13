@@ -2,7 +2,8 @@
 
 **CoreUI** is an Open Source Bootstrap Admin Template. But CoreUI is not just another Admin Template. It goes way beyond hitherto admin templates thanks to transparent code and file structure. And if that's not enough, let’s just add that CoreUI consists bunch of unique features and over 1000 high quality icons.
 
-CoreUI is meant to be the UX game changer. Pure & transparent code is devoid of redundant components, so the app is light enough to offer ultimate user experience. This means mobile devices also, where the navigation is just as easy and intuitive as on a desktop or laptop.
+**CoreUI** is meant to be the UX game changer. Pure & transparent code is devoid of redundant components, so the app is light enough to offer ultimate user experience. This means mobile devices also, where the navigation is just as easy and intuitive as on a desktop or laptop.
+
 
 > App Features:
 
@@ -18,9 +19,8 @@ CoreUI is meant to be the UX game changer. Pure & transparent code is devoid of 
 > Links
 
 - [Flask Dashboard - CoreUI Design](https://appseed.us/admin-dashboards/flask-dashboard-coreui) - Official product page
-- [Flask Dashboard CoreUI Demo](https://flask-dashboard-coreui.appseed.us/) - LIVE App
-- More [Flask Dashboards](https://appseed.us/admin-dashboards/flask) - index hosted by **AppSeed**
-- More [Admin Dashboards](https://appseed.us/admin-dashboards) - index hosted by **AppSeed**
+- [Flask Dashboard CoreUI Demo](https://flask-dashboard-coreui.appseed.us/) - LIVE App deployment 
+- More [CoreUI](https://appseed.us/agency/coreui) starters provided by **AppSeed**
 
 <br />
 
@@ -28,9 +28,9 @@ CoreUI is meant to be the UX game changer. Pure & transparent code is devoid of 
 
 PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Support** (via [Discord](https://discord.gg/fZC6hup))
 
-| [Flask Gradient PRO](https://appseed.us/admin-dashboards/flask-dashboard-gradient-pro) | [Flask Dashboard Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) | [Flask Dashboard Argon PRO](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro) |
+| [Flask Dashboard Material PRO](https://appseed.us/admin-dashboards/flask-dashboard-material-pro) | [Flask Dashboard Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) | [Flask Dashboard Argon PRO](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro) |
 | --- | --- | --- |
-| [![Flask Gradient PRO](https://raw.githubusercontent.com/app-generator/flask-dashboard-gradient-pro/master/media/flask-dashboard-gradient-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-gradient-pro) | [![Flask Dashboard Black PRO](https://raw.githubusercontent.com/app-generator/flask-dashboard-black-pro/master/media/flask-dashboard-black-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) | [![Flask Dashboard Argon PRO](https://raw.githubusercontent.com/app-generator/flask-dashboard-argon-pro/master/media/flask-dashboard-argon-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro)
+| [![Flask Dashboard Material PRO](https://raw.githubusercontent.com/app-generator/flask-dashboard-material-pro/master/media/flask-dashboard-material-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-material-pro) | [![Flask Dashboard Black PRO](https://raw.githubusercontent.com/app-generator/flask-dashboard-black-pro/master/media/flask-dashboard-black-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) | [![Flask Dashboard Argon PRO](https://raw.githubusercontent.com/app-generator/flask-dashboard-argon-pro/master/media/flask-dashboard-argon-pro-screen.png)](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro)
 
 <br />
 <br />
