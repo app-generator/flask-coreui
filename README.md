@@ -1,18 +1,18 @@
 # [Flask Dashboard - CoreUI Design](https://appseed.us/admin-dashboards/flask-dashboard-coreui)
 
-> **Open-Source Admin Dashboard** coded in **Flask Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features:
+**CoreUI** is an Open Source Bootstrap Admin Template. But CoreUI is not just another Admin Template. It goes way beyond hitherto admin templates thanks to transparent code and file structure. And if that's not enough, let’s just add that CoreUI consists bunch of unique features and over 1000 high quality icons.
+CoreUI is meant to be the UX game changer. Pure & transparent code is devoid of redundant components, so the app is light enough to offer ultimate user experience. This means mobile devices also, where the navigation is just as easy and intuitive as on a desktop or laptop.
+
+> App Features:
 
 - Base UI Kit: **CoreUI Dashboard** (Free Version) provided by **CoreUI** agency
 - Jinja2 Theme: [Jinja2 Theme - CoreUI (Free Version)](https://github.com/app-generator/theme-jinja2-coreui)
-- SQLite, PostgreSQL, SQLAlchemy ORM
-- Alembic (DB schema migrations)
+- DBMS: SQLite, PostgreSQL (production) 
+- DB Tools: SQLAlchemy ORM, Alembic (schema migrations)
 - Modular design with **Blueprints**
-- Session-Based authentication (via **flask_login**)
-- Forms validation
-- Deployment scripts: Docker, Gunicorn / Nginx
-- **[MIT License](https://github.com/app-generator/license-mit)**
-- Free support via **Github** issues tracker
-- Paid 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
+- Session-Based authentication (via **flask_login**), Forms validation
+- Deployment scripts: Docker, Gunicorn / Nginx, Heroku
+- Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
 
 > Links
 
