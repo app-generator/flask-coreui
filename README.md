@@ -21,7 +21,7 @@
 
 - [Flask Dashboard CoreUI](https://appseed.us/admin-dashboards/flask-dashboard-coreui) - Official product page
 - [Flask Dashboard CoreUI Demo](https://flask-dashboard-coreui.appseed.us/) - LIVE App deployment 
-- More [CoreUI](https://appseed.us/agency/coreui) starters provided by **AppSeed**
+- [Flask Tutorial](https://github.com/app-generator/tutorial-flask) - Getting started with Flask
 
 <br />
 
