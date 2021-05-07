@@ -18,8 +18,8 @@
 > Links
 
 - [CoreUI Flask](https://appseed.us/admin-dashboards/flask-dashboard-coreui) - product page
-- [CoreUI Flask Demo](https://flask-coreui.appseed-srv1.com/) - LIVE deployment 
-- [Flask Tutorial](https://github.com/app-generator/tutorial-flask) - Getting started with Flask
+- [CoreUI Flask](https://flask-coreui.appseed-srv1.com/) - LIVE deployment 
+- [CoreUI Flask](https://docs.appseed.us/products/flask-dashboards/coreui) - product documentation
 
 <br />
 
