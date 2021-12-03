@@ -47,7 +47,7 @@ Visit `http://localhost:85` in your browser. The app should be up & running.
 
 <br />
 
-![CoreUI Flask - Template project generated in Flask by AppSeed.](https://raw.githubusercontent.com/app-generator/flask-dashboard-coreui/master/media/flask-dashboard-coreui-screen.png)
+![CoreUI Flask - Template project generated in Flask by AppSeed.](https://user-images.githubusercontent.com/51070104/144590902-d217ce1a-be75-47ef-a102-3433404085ad.gif)
 
 <br />
 
