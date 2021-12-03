@@ -6,7 +6,7 @@ Open-source **[Flask Dashboard](https://appseed.us/admin-dashboards/flask)** gen
 
 > Features
 
-- UI Kit: **CoreUI** (Free Version) v4.1.0
+- UI Kit: **[CoreUI](https://bit.ly/2VTDaxg)** (Free Version) **v4.1.0**
 - Up-to-date [dependencies](./requirements.txt): **Flask 2.0.1**
 - [SCSS compilation](#recompile-css) via **Gulp**
 - DBMS: SQLite, PostgreSQL (production) 
