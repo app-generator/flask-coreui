@@ -6,6 +6,7 @@
 
 > Features
 
+- UI Kit: **CoreUI** (Free Version) v4.1.0
 - Up-to-date [dependencies](./requirements.txt): **Flask 2.0.1**
 - [SCSS compilation](#recompile-css) via **Gulp**
 - DBMS: SQLite, PostgreSQL (production) 
