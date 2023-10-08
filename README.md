@@ -5,8 +5,6 @@ Open-source **[Flask Dashboard](https://appseed.us/admin-dashboards/flask/)** ge
 - 👉 [CoreUI Flask](https://appseed.us/product/coreui/flask/) - product page
 - 👉 [CoreUI Flask](https://flask-coreui.appseed-srv1.com/) - LIVE Deployment
 
-<br />
-
 ## ✅ Features 
 
 - `Up-to-date dependencies`
