@@ -20,7 +20,7 @@ The product is designed to deliver the best possible user experience with highly
 - Simple, Easy-to-Extend codebase, [Blueprint Pattern](https://app-generator.dev/blog/flask-blueprints-a-developers-guide/)
 - [CoreUI](https://app-generator.dev/docs/templates/bootstrap/coreui.html) Full Integration
 - [Bootstrap](https://app-generator.dev/docs/templates/bootstrap/index.html) CSS Styling
-- Auth: Session Based, GitHub, Google
+- Auth: Session Based
 - DB Persistence: SQLite (default), 
   - Easy switch to MySql/MariaDB, PgSql
 - CI/CD integration for [Render](https://app-generator.dev/docs/deployment/render/index.html)
